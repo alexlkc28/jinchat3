@@ -9,7 +9,7 @@
 	'license': "OPL-1",
 	'depends': ['account', 'base', 'sale'],
 	'data': [
-
+		'views/saas_trial.xml',
 	],
 	'assets': {
 		'web.assets_backend': [
