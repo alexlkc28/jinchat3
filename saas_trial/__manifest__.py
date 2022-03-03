@@ -13,7 +13,7 @@
 	],
 	'assets': {
 		'web.assets_backend': [
-			'saas_trial/static/css/demo.css',
+			'saas_trial/static/src/css/demo.css',
 		],
 	},
 	'installable': True,
