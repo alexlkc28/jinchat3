@@ -7,7 +7,7 @@
 	'summary': 'Jinchatsh SAAS',
 	'description': """Jinchatsh SAAS""",
 	'license': "OPL-1",
-	'depends': ['base'],
+	'depends': ['base', 'saas_trial'],
 	'data': [
 
 	],
